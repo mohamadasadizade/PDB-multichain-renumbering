@@ -1,5 +1,5 @@
 # PDB-multichain-renumbering
-Renumbering chain's atoms in multichain protein PDB files to use in HADDOCK
+Renumbering chain's atoms in multichain protein PDB files
 
 1-Change the line number that atom Coordinates start and end based on your PDB file.
 
