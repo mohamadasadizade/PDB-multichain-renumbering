@@ -25,7 +25,7 @@ def rearranged_pdb_list(pdb_list , outputPath):
     return output 
 
 
-rearranged_pdb_list(readfile('C:/Users/Mohammad/Desktop/7jtl (1).pdb'),'C:/Users/Mohammad/Desktop/7jtl.pdb')
+rearranged_pdb_list(readfile('input.pdb'),'output.pdb')
 
 
 
